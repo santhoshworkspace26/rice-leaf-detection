@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pth
+venv/
+.env
+
+dataset/
+
+static/uploads/
+
+.ipynb_checkpoints/
+rice/static/uploads/
+rice/vit_leaf_model.pth
