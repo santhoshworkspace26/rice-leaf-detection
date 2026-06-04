@@ -59,25 +59,25 @@ rice/
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home_page.png)
+![Home Page](rice/screenshots/home_page.png)
 
 ---
 
 ### 📤 Upload Rice Leaf Image
 
-![Upload Page](screenshots/upload.png)
+![Upload Page](rice/screenshots/upload.png)
 
 ---
 
 ### 🔍 Disease Prediction Result 1
 
-![Prediction 1](screenshots/prediction_1.png)
+![Prediction 1](rice/screenshots/prediction_1.png)
 
 ---
 
 ### 🔍 Disease Prediction Result 2
 
-![Prediction 2](screenshots/prediction_2.png)
+![Prediction 2](rice/screenshots/prediction_2.png)
 
 ---
 
